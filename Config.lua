@@ -7,5 +7,5 @@ SendKickToChat = false
 -- Change 'false' to 'true' to send ban messages into the chat
 SendBanToChat = false
 
--- Change this to change the ban duration (Infinite = 0, One Minute ~ 0.017, One Hour = 1, Two Hours = 2, Three Hours = 3, etc.)
+-- Change this to change the ban duration (Infinite = 0, One Minute = 0.017, One Hour = 1, Two Hours = 2, Three Hours = 3, etc.)
 BanDuration = 0.025
